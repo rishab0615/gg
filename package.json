@@ -1,0 +1,18 @@
+{
+  "name": "hungerz",
+  "version": "1.0.0",
+  "description": "This is our restaurent management app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Rishab and Neha",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.2"
+  },
+  "dependencies": {
+    "electromon": "^1.0.10"
+  }
+}
